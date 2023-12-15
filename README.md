@@ -1,6 +1,6 @@
 # Projeto Final do Módulo de Redes do curso da Ada Tech
 
-# Objetivo Final:
+# Objetivo:
 
 Realizar a criação de 4 redes diferentes no Cisco Packet Tracer e realizar a comunicação entre elas. As redes devem seguir a orientação abaixo:
 
